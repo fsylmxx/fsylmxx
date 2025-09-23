@@ -10,9 +10,8 @@
 
 <!-- 统计卡片 -->
 
-<p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=fsylmxx&show_icons=true&locale=zh-cn&theme=tokyonight&cache_seconds=1800" alt="fsylmxx 的 GitHub 统计数据" />
+
 
 <!-- 简介 -->
 
