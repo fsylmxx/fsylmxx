@@ -3,10 +3,16 @@
 
 <!-- 欢迎图片 -->
 
-<img src="https://github.com/fsylmxx/fsylmxx/blob/main/assets/welcome-banner.jpg" alt="一个欢迎图片"/>
+<img src="https://www.google.com/search?q=https://placehold.co/1200x300/1a1b27/a9b1d6%3Ftext%3DHi,%2520I%27m%2520fsylmxx" alt="一个欢迎图片"/>
 
 <br/>
 <br/>
+
+<!-- 访客计数徽章 -->
+
+<p>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfsylmxx%26label%3DPROFILE%2BVIEWS%26style%3Dflat-square%26color%3Dblueviolet" alt="个人主页访问量"/>
+</p>
 
 <!-- 简介 -->
 
@@ -18,19 +24,15 @@
 </div>
 
 👨‍💻 关于我 (About Me)
-🔭 我目前正在进行...  [在这里写下你正在做的项目]
+🔭 我目前正在进行...  垂直领域大模型的搭建与微调；睡眠分期；机器学习预测模型搭建；脑电及心电信号分析
 
-🌱 我最近正在学习... [在这里写下你正在学习的技术]
+🌱 我最近正在学习... 大模型算法应用、深度学习算法
 
-👯 我希望可以合作... [在这里写下你希望合作的项目类型]
+👯 我希望可以合作... 大模型开发；预测模型搭建
 
-🤔 我正在寻找帮助... [如果你需要帮助，可以在这里说明]
+📫 如何联系我: 15335001706@163.com
 
-💬 随时问我关于... [你擅长的领域]
-
-📫 如何联系我: [你的邮箱地址或其他联系方式]
-
-😄 代词: He/Him
+😄 代词: She/her
 
 🛠️ 我的技术栈 (My Tech Stack)
 <p align="center">
@@ -43,7 +45,7 @@
 📊 GitHub 统计 (GitHub Stats)
 <div align="center">
 <!-- GitHub 统计卡片 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsylmxx&layout=compact&locale=zh-cn&theme=tokyonight&cache_seconds=1800" alt="Top Languages" ... />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfsylmxx%26show_icons%3Dtrue%26locale%3Dzh-cn%26theme%3Dtokyonight%26cache_seconds%3D1800" alt="Anurag 的 GitHub 统计数据" style="width: 48%; display: inline-block;"/>
 <!-- Top Languages 卡片 -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfsylmxx%26layout%3Dcompact%26locale%3Dzh-cn%26theme%3Dtokyonight%26cache_seconds%3D1800" alt="Top Languages" style="width: 48%; display: inline-block;"/>
 <!-- GitHub Streak -->
