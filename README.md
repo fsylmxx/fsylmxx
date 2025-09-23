@@ -8,12 +8,6 @@
 <br/>
 <br/>
 
-<!-- 访客计数徽章 -->
-
-<p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfsylmxx%26label%3DPROFILE%2BVIEWS%26style%3Dflat-square%26color%3Dblueviolet" alt="个人主页访问量"/>
-</p>
-
 <!-- 简介 -->
 
 <p>
@@ -43,6 +37,10 @@
 </p>
 
 📊 GitHub 统计 (GitHub Stats)
+<div align="center">
+  <!-- GitHub 统计卡片 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=fsylmxx&show_icons=true&locale=zh-cn&theme=tokyonight&cache_seconds=1800" alt="fsylmxx 的 GitHub 统计数据"/>
+</div>
 <div align="center">
 <!-- GitHub 统计卡片 -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfsylmxx%26show_icons%3Dtrue%26locale%3Dzh-cn%26theme%3Dtokyonight%26cache_seconds%3D1800" alt="Anurag 的 GitHub 统计数据" style="width: 48%; display: inline-block;"/>
