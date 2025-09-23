@@ -47,7 +47,7 @@
 <!-- 暂时隐藏语言卡片，等有了公开代码后再开启
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsylmxx&layout=compact&locale=zh-cn&theme=tokyonight&cache_seconds=1800" alt="Top Languages" ... />
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsylmxx&layout=compact&locale=zh-cn&theme=tokyonight&cache_seconds=1800" alt="Top Languages" ... />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsylmxx)
 <!-- Top Languages 卡片 -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dfsylmxx%26layout%3Dcompact%26locale%3Dzh-cn%26theme%3Dtokyonight%26cache_seconds%3D1800" alt="Top Languages" style="width: 48%; display: inline-block;"/>
 <!-- GitHub Streak -->
