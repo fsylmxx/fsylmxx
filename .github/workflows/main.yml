@@ -14,13 +14,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
+          # You need to create a personal access token with repo, read:user, read:org scopes
+          # and save it as a repository secret with the name METRICS_TOKEN
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
