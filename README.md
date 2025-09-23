@@ -3,7 +3,7 @@
 
 <!-- 欢迎图片 -->
 
-<img src="https://www.google.com/search?q=https://placehold.co/1200x300/1a1b27/a9b1d6%3Ftext%3DHi,%2520I%27m%2520fsylmxx" alt="https://github.com/fsylmxx/fsylmxx/blob/main/assets/welcome-banner.jpg"/>
+<img src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/assets/welcome-banner.png" alt="一个欢迎图片"/>
 
 <br/>
 <br/>
