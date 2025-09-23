@@ -3,7 +3,7 @@
 
 <!-- 欢迎图片 -->
 
-<img src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/assets/welcome-banner.png" alt="一个欢迎图片"/>
+<img src="https://github.com/fsylmxx/fsylmxx/blob/main/assets/welcome-banner.jpg" alt="一个欢迎图片"/>
 
 <br/>
 <br/>
