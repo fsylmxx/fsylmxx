@@ -11,7 +11,7 @@
 <!-- 访客计数徽章 -->
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=fsylmxx&label=PROFILE+VIEWS&style=flat-square&color=blueviolet" alt="个人主页访问量"/>
+<img src="https://komarev.com/ghpvc/?username=fsylmxx&label=访问量&color=green&style=flat" alt="个人主页访问量"/>
 </p>
 
 <!-- 简介 -->
