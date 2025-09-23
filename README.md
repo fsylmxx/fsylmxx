@@ -8,10 +8,10 @@
 <br/>
 <br/>
 
-<!-- 访客计数徽章 -->
+<!-- 统计卡片 -->
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=fsylmxx&label=访问量&color=green&style=flat" alt="个人主页访问量"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 </p>
 
 <!-- 简介 -->
