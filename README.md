@@ -28,21 +28,20 @@
 
 😄 代词: She/her
 
-
+<!-- 我的活动记录 -->
 <div align="center">
-⚡ 我的活动记录（My Activation Record）
+  <h3>⚡ 我的活动记录 (My Activation Record)</h3>
   <img src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/github-metrics.svg" alt="Metrics" />
 </div>
 
-<p align="center">
-🛠️ 我的技术栈 (My Tech Stack)
+<!-- 我的技术栈 -->
+<div align="center">
+  <h3>🛠️ 我的技术栈 (My Tech Stack)</h3>
   <!-- 这里列出你掌握的技术图标，可以去 https://skillicons.dev/ 寻找更多图标 -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,py,mysql,linux,git&perline=7" alt="我的技术栈图标"/>
   </a>
-</p>
-
-<div align="center">
+</div>
 
 🐍 GitHub 贡献图 (GitHub Contribution Snake)
 <div align="center">
@@ -84,9 +83,8 @@
   </a>
   
   <!-- 知乎 -->
-  <a href="https://www.zhihu.com/people/your-zhihu-id" target="_blank">
-    <!-- 👆 把这里的 "your-zhihu-id" 换成你的知乎ID -->
-    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
+  <a href="https://www.zhihu.com/people/ruo-xi-9-90" target="_blank">
+    <img src="https://img.shields.io/badge/知乎-若溪-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
   </a>
 </p>
 
