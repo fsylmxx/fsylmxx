@@ -1,35 +1,38 @@
 <div align="center">
 
-<!-- 欢迎图片 -->
-
-
-<img src="https://github.com/fsylmxx/fsylmxx/blob/main/assets/welcome-banner.jpg" alt="一个欢迎图片"  width="50%"/>
+<!-- 欢迎图片 (已修正链接) -->
+<img src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/assets/welcome-banner.jpg" alt="一个欢迎图片" width="60%"/>
 
 <br/>
+
+<!-- 欢迎语 -->
+<h3>
+  Hi there 👋
+</h3>
 
 <!-- 简介 -->
-
-<h3>
-Hi there 👋
-</h3>
 <p>
-一位对技术充满热情的开发者，欢迎来到我的代码世界。
-<br/>
-你可以在下方找到我的项目、技能和联系方式。
+  一位对技术充满热情的开发者，欢迎来到我的代码世界。
+  <br/>
+  你可以在下方找到我的项目、技能和联系方式。
 </p>
 
 <!-- 访客徽章 -->
-
 <p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fsylmxx.fsylmxx&left_text=访客&left_color=0077B5&right_color=brightgreen)
+  <img src="https://visitor-badge.glitch.me/badge?page_id=fsylmxx.fsylmxx&left_text=访客&left_color=0077B5&right_color=brightgreen" alt="visitors"/>
 </p>
 
 </div>
 
-<!-- 关于我 -->
+<!-- 清晰的分割线 -->
+---
 
+<!-- “关于我”标题 -->
 <div align="center">
-<h3>
+  <h3>
+    👨‍💻 关于我 (About Me)
+  </h3>
+</div>
 👨‍💻 关于我 (About Me)
 </h3>
 <table align="center">
