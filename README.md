@@ -28,6 +28,9 @@
 
 😄 代词: She/her
 
+⚡ 我的活动记录（My Activation Record）
+![Metrics](https://github.com/fsylmxx/fsylmxx/blob/master/github-metrics.svg)
+
 🛠️ 我的技术栈 (My Tech Stack)
 <p align="center">
 <!-- 这里列出你掌握的技术图标，可以去 https://devicon.dev/ 寻找更多图标 -->
