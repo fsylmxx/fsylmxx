@@ -30,7 +30,9 @@
 
 ⚡ 我的活动记录（My Activation Record）
 
-![Metrics](https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/github-metrics.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/github-metrics.svg" alt="Metrics" />
+</div>
 
 🛠️ 我的技术栈 (My Tech Stack)
 <p align="center">
