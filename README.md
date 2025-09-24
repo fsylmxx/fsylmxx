@@ -65,8 +65,7 @@
 🔗 联系我 (Connect with Me)
 <p align="center">
   <!-- 
-    请将下面的链接替换成你自己的真实链接！
-    例如，将 href="mailto:your-email@example.com" 改成 href="mailto:fsylmxx@example.com"
+    👇 重要：请将下面的知乎占位符链接替换成你自己的真实链接！
   -->
 
   <!-- CSDN 博客 -->
@@ -74,18 +73,15 @@
     <img src="https://img.shields.io/badge/CSDN-溪溪小姐-red?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"/>
   </a>
   
-  <!-- 邮箱 -->
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- 小红书 -->
+  <a href="https://www.xiaohongshu.com/user/profile/5c97793c00000000180211a7" target="_blank">
+    <img src="https://img.shields.io/badge/小红书-我不撕嘴皮-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/>
   </a>
   
   <!-- 知乎 -->
   <a href="https://www.zhihu.com/people/your-zhihu-id" target="_blank">
-    <img src="https://www.zhihu.com/people/yun-fan-27-76?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
-  </a>
-
-  <!-- 领英 (LinkedIn) -->
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <!-- 👆 把这里的 "your-zhihu-id" 换成你的知乎ID -->
+    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
   </a>
 </p>
+
