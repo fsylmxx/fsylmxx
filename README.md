@@ -29,6 +29,7 @@
 😄 代词: She/her
 
 ⚡ 我的活动记录（My Activation Record）
+
 ![Metrics](https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/github-metrics.svg)
 
 🛠️ 我的技术栈 (My Tech Stack)
