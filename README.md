@@ -47,11 +47,24 @@
 🐍 GitHub 贡献图 (GitHub Contribution Snake)
 <div align="center">
 <!-- 贡献图贪吃蛇动画 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <!-- 深色模式下显示的动画 -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/fsylmxx/fsylmxx/output/github-contribution-grid-snake-dark.svg"
+    />
+    <!-- 浅色模式和默认情况下显示的动画 -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/fsylmxx/fsylmxx/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 </div>
 
 🔗 联系我 (Connect with Me)
