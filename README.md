@@ -38,7 +38,7 @@
 <p align="center">
   <!-- 这里列出你掌握的技术图标，可以去 https://skillicons.dev/ 寻找更多图标 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,py,java,spring,mysql,redis,docker,kubernetes,linux,git&perline=7" alt="我的技术栈图标"/>
+    <img src="https://skillicons.dev/icons?i=js,html,py,mysql,linux,git&perline=7" alt="我的技术栈图标"/>
   </a>
 </p>
 
@@ -64,17 +64,28 @@
 
 🔗 联系我 (Connect with Me)
 <p align="center">
-<!-- 在这里替换成你的社交媒体链接 -->
-<a href="mailto:your-email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
-</a>
-<a href="https://www.google.com/search?q=https://www.zhihu.com/people/your-zhihu-id">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0084FF%3Fstyle%3Dfor-the-badge%26logo%3Dzhihu%26logoColor%3Dwhite" alt="知乎"/>
-</a>
+  <!-- 
+    请将下面的链接替换成你自己的真实链接！
+    例如，将 href="mailto:your-email@example.com" 改成 href="mailto:fsylmxx@example.com"
+  -->
+
+  <!-- CSDN 博客 -->
+  <a href="https://blog.csdn.net/xixixiaojie" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-溪溪小姐-red?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"/>
+  </a>
+  
+  <!-- 邮箱 -->
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- 知乎 -->
+  <a href="https://www.zhihu.com/people/your-zhihu-id" target="_blank">
+    <img src="https://www.zhihu.com/people/yun-fan-27-76?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/>
+  </a>
+
+  <!-- 领英 (LinkedIn) -->
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
