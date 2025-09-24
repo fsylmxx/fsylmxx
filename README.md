@@ -36,10 +36,10 @@
 
 🛠️ 我的技术栈 (My Tech Stack)
 <p align="center">
-<!-- 这里列出你掌握的技术图标，可以去 https://devicon.dev/ 寻找更多图标 -->
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,html,css,react,vue,py,java,spring,mysql,redis,docker,kubernetes,linux,git%26perline%3D7" alt="我的技术栈图标"/>
-</a>
+  <!-- 这里列出你掌握的技术图标，可以去 https://skillicons.dev/ 寻找更多图标 -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,py,java,spring,mysql,redis,docker,kubernetes,linux,git&perline=7" alt="我的技术栈图标"/>
+  </a>
 </p>
 
 📊 GitHub 统计 (GitHub Stats)
