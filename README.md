@@ -28,14 +28,14 @@
 
 😄 代词: She/her
 
-⚡ 我的活动记录（My Activation Record）
 
 <div align="center">
+⚡ 我的活动记录（My Activation Record）
   <img src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/github-metrics.svg" alt="Metrics" />
 </div>
 
-🛠️ 我的技术栈 (My Tech Stack)
 <p align="center">
+🛠️ 我的技术栈 (My Tech Stack)
   <!-- 这里列出你掌握的技术图标，可以去 https://skillicons.dev/ 寻找更多图标 -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,py,mysql,linux,git&perline=7" alt="我的技术栈图标"/>
