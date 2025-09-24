@@ -84,23 +84,22 @@ src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/output/github-contributio
 <!-- 联系我 -->
 
 <div align="center">
-<h3>🔗 联系我 (Connect with Me)</h3>
-<p>
-<!-- CSDN 博客 -->
-<a href="https://blog.csdn.net/xixixiaojie" target="_blank">
-<img src="https://img.shields.io/badge/CSDN-溪溪小姐-red?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"/>
-</a>
-
-<!-- 飞桨 AI Studio -->
-<a href="[https://blog.csdn.net/xixixiaojie](https://aistudio.baidu.com/personalcenter/thirdview/2417484)" target="_blank">
-<img src="https://img.shields.io/badge/AI Studio-胡萝卜都不好吃-red?style=for-the-badge&logo=CSDN&logoColor=white" alt="AI Studio"/>
-</a>
-https://aistudio.baidu.com/personalcenter/thirdview/2417484
-
-<!-- 小红书 -->
-<a href="https://www.xiaohongshu.com/user/profile/5c97793c00000000180211a7" target="_blank">
-  <img src="https://img.shields.io/badge/小红书-我不撕嘴皮-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/>
-</a>
+  <h3>🔗 联系我 (Connect with Me)</h3>
+  <p>
+    <!-- CSDN 博客 (使用官方品牌红) -->
+    <a href="https://blog.csdn.net/xixixiaojie" target="_blank">
+      <img src="https://img.shields.io/badge/CSDN-溪溪小姐-FC5531?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"/>
+    </a>
+    
+    <!-- 飞桨 AI Studio (使用百度品牌蓝并修正了图标) -->
+    <a href="https://aistudio.baidu.com/personalcenter/thirdview/2417484" target="_blank">
+      <img src="https://img.shields.io/badge/AI Studio-胡萝卜都不好吃-2932E1?style=for-the-badge&logo=Baidu&logoColor=white" alt="AI Studio"/>
+    </a>
+    
+    <!-- 小红书 (颜色已是最佳) -->
+    <a href="https://www.xiaohongshu.com/user/profile/5c97793c00000000180211a7" target="_blank">
+      <img src="https://img.shields.io/badge/小红书-我不撕嘴皮-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/>
+    </a>
 
 <!-- 知乎 -->
 <a href="https://www.zhihu.com/people/ruo-xi-9-90" target="_blank">
