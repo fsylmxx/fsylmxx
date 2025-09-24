@@ -2,7 +2,7 @@
 
 <!-- 欢迎图片 (已修正链接) -->
 
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/fsylmxx/fsylmxx/main/assets/welcome-banner.jpg" alt="一个欢迎图片" width="60%"/>
+<img src="https://github.com/fsylmxx/fsylmxx/blob/main/assets/welcome-banner.jpg" alt="一个欢迎图片"  width="50%"/>
 
 <br/>
 
@@ -20,7 +20,7 @@ Hi there 👋
 <!-- 访客徽章 -->
 
 <p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfsylmxx%26label%3D%E8%AE%BF%E5%AE%A2%E6%95%B0%26color%3Dbrightgreen%26style%3Dflat-square" alt="个人主页访问量"/>
+<img src="https://komarev.com/ghpvc/?username=fsylmxx&label=访客数&color=brightgreen&style=flat-square" alt="个人主页访问量"/>
 </p>
 
 </div>
