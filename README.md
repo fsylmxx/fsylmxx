@@ -29,7 +29,6 @@
     👨‍💻 关于我 (About Me)
   </h3>
 </div>
-👨‍💻 关于我 (About Me)
 </h3>
 <table align="center">
 <tr>
