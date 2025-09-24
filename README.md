@@ -1,6 +1,7 @@
 <div align="center">
 
-<!-- 欢迎图片 (已修正链接) -->
+<!-- 欢迎图片 -->
+
 
 <img src="https://github.com/fsylmxx/fsylmxx/blob/main/assets/welcome-banner.jpg" alt="一个欢迎图片"  width="50%"/>
 
@@ -20,7 +21,7 @@ Hi there 👋
 <!-- 访客徽章 -->
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=fsylmxx&label=访客数&color=brightgreen&style=flat-square" alt="个人主页访问量"/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fsylmxx.fsylmxx&left_text=访客&left_color=0077B5&right_color=brightgreen)
 </p>
 
 </div>
