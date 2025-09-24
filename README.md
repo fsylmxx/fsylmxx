@@ -17,10 +17,6 @@
   你可以在下方找到我的项目、技能和联系方式。
 </p>
 
-<!-- 访客徽章 -->
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=fsylmxx.fsylmxx&left_text=访客&left_color=0077B5&right_color=brightgreen" alt="visitors"/>
-</p>
 
 </div>
 
