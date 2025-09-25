@@ -90,7 +90,7 @@ src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/output/github-contributio
     <!-- 飞桨 AI Studio -->
     <a href="https://aistudio.baidu.com/personalcenter/thirdview/2417484" target="_blank"><img src="https://img.shields.io/badge/AI Studio-胡萝卜都不好吃-2932E1?style=for-the-badge&logo=Baidu&logoColor=white" alt="AI Studio"/></a>&nbsp;&nbsp;
     <!-- 小红书 -->
-    <a href="https://www.xiaohongshu.com/user/profile/5c97793c00000000180211a7" target="_blank"><img src="https://img.shields.io/badge/小红书-我不撕嘴皮-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>&nbsp;&nbsp;
+    <a href="https://www.xiaohongshu.com/user/profile/5e21d5f800000000010005bb" target="_blank"><img src="https://img.shields.io/badge/小红书-我不撕嘴皮-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>&nbsp;&nbsp;
     <!-- 知乎 -->
     <a href="https://www.zhihu.com/people/ruo-xi-9-90" target="_blank"><img src="https://img.shields.io/badge/知乎-若溪-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/></a>
   </p>
