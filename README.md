@@ -33,7 +33,7 @@
 <table align="center">
 <tr>
 <td align="left" style="padding: 10px;">
-<p>🔭 <strong>我目前正在进行:</strong> 垂直领域大模型的搭建与微调；睡眠分期；机器学习预测模型搭建；脑电及心电信号分析</p>
+<p>🔭 <strong>我目前正在进行:</strong> 机器学习预测模型搭建；脑电及心电信号分析</p>
 <p>🌱 <strong>我最近正在学习:</strong> 大模型算法应用、深度学习算法</p>
 <p>👯 <strong>我希望可以合作:</strong> 大模型开发；预测模型搭建</p>
 <p>📫 <strong>如何联系我:</strong> <a href="mailto:15335001706@163.com">15335001706@163.com</a></p>
