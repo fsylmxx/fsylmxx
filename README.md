@@ -86,12 +86,12 @@ src="https://raw.githubusercontent.com/fsylmxx/fsylmxx/output/github-contributio
   <h3>🔗 联系我 (Connect with Me)</h3>
   <p>
     <!-- CSDN 博客 -->
-    <a href="https://blog.csdn.net/xixixiaojie" target="_blank"><img src="https://img.shields.io/badge/CSDN-溪溪小姐-FC5531?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"/></a>&nbsp;&nbsp;
+    <a href="https://blog.csdn.net/m0_62325091?type=blog" target="_blank"><img src="https://img.shields.io/badge/CSDN-溪溪小姐-FC5531?style=for-the-badge&logo=CSDN&logoColor=white" alt="CSDN"/></a>&nbsp;&nbsp;
     <!-- 飞桨 AI Studio -->
     <a href="https://aistudio.baidu.com/personalcenter/thirdview/2417484" target="_blank"><img src="https://img.shields.io/badge/AI Studio-胡萝卜都不好吃-2932E1?style=for-the-badge&logo=Baidu&logoColor=white" alt="AI Studio"/></a>&nbsp;&nbsp;
     <!-- 小红书 -->
     <a href="https://www.xiaohongshu.com/user/profile/5e21d5f800000000010005bb" target="_blank"><img src="https://img.shields.io/badge/小红书-我不撕嘴皮-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书"/></a>&nbsp;&nbsp;
     <!-- 知乎 -->
-    <a href="https://www.zhihu.com/people/ruo-xi-9-90" target="_blank"><img src="https://img.shields.io/badge/知乎-若溪-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/></a>
+    <a href="https://www.zhihu.com/people/yun-fan-27-76/collections" target="_blank"><img src="https://img.shields.io/badge/知乎-若溪-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="知乎"/></a>
   </p>
 </div>
